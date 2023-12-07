@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https:supriyatech06/supriyatech06.github.io
+- 👨‍💻 All of my projects are available at [https://github.com/supriyatech06/supriyatech06.github.io](https://github.com/supriyatech06/supriyatech06.github.io)
 
 - 📫 How to reach me **supriyayout@gmail.com**
 
